@@ -1,0 +1,41 @@
+body{
+    background-color: aliceblue;
+}
+input{
+    width: 35px;
+}
+button{
+    margin-left: 65%;
+    color: black;
+}
+.F{
+    margin-left:100px;
+    margin-right:100px;
+}
+.A{
+    height: 15px;
+    width: 50%;
+    background-color: blueviolet;
+    
+}
+.items{
+   
+   margin: auto;
+    background-color: blueviolet;
+    
+}
+.a{
+    margin-left: 50%
+}
+
+.b{
+    margin-left:50%;
+}
+
+.c{
+    margin-left:50%;
+
+}
+.d{
+    margin-left:50%;
+}    

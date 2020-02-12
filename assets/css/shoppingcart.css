@@ -1,0 +1,29 @@
+body{
+    background-color: blueviolet;
+    font-family:Arial Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Helvetica, sans-serif;
+}
+
+.shop {
+    height: 100%;
+    width: 100%;
+    background-color:grey;
+    color: white;
+}
+
+.A {
+    margin-right: 150px;
+    }
+
+.B {
+    margin: 37px;
+    }
+
+
+button {
+    margin-left: 380px;
+    background-color:white;
+    color: grey;
+        }
+input {width: 35px;
+    margin-left: -145px;
+}
